@@ -1,7 +1,7 @@
 {
   "name": "pgVectorExample",
   "dependencies": {
-    "openai": "^4.5.0",
+    "openai": "^4.80.1",
     "react-hook-form": "^7.45.4",
     "@nextui-org/react": "^2.1.10",
     "framer-motion": "^10.16.4",
