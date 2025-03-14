@@ -1,7 +1,7 @@
 {
   "name": "mage",
   "dependencies": {
-    "prismjs": "^1.29.0",
+    "prismjs": "^1.30.0",
     "react-accessible-treeview": "2.6.1",
     "react-icons": "4.10.1",
     "@zip.js/zip.js": "2.7.16",
