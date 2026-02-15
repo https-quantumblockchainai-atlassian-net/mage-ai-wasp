@@ -2,7 +2,7 @@
   "name": "waspleau",
   "type": "module",
   "dependencies": {
-    "axios": "^1.4.0",
+    "axios": "^1.13.5",
     "wasp": "file:.wasp/out/sdk/wasp",
     "react": "^18.2.0"
   },
